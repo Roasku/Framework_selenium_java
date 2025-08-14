@@ -1,0 +1,794 @@
+[INFO ] 2025-02-02 04:37:06.091 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 04:41:45.823 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 04:41:47.401 [main] MyStoreV1 - Sign in button should be click able
+[INFO ] 2025-02-02 04:41:48.097 [main] MyStoreV1 - email is entered
+[INFO ] 2025-02-02 04:46:22.421 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 04:46:24.684 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 04:46:25.043 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 04:46:25.305 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:23:07.640 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 10:23:10.515 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 10:23:10.896 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 10:23:11.237 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:24:38.509 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 10:24:42.019 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 10:24:42.407 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 10:24:42.687 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:46:12.861 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 10:46:15.182 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 10:46:15.531 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 10:46:15.785 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:49:58.198 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 10:50:00.029 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 10:50:00.494 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 10:50:00.810 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:53:48.407 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 10:53:50.115 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 10:53:50.733 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 10:53:51.411 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 10:53:55.759 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-02-02 11:05:41.988 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 11:05:43.574 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 11:05:44.097 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 11:05:44.401 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 11:05:48.799 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-02-02 11:05:54.819 [main] MyStoreV1 - registered botton is click able
+[INFO ] 2025-02-02 11:09:11.969 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 11:09:14.096 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 11:09:14.477 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 11:09:14.724 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 11:10:16.570 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-02 11:10:18.445 [main] MyStoreV1 - Sign in button is click able
+[INFO ] 2025-02-02 11:10:18.927 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-02 11:10:19.242 [main] MyStoreV1 - Submit button is click able
+[INFO ] 2025-02-02 11:10:23.729 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-02-02 11:10:30.490 [main] MyStoreV1 - registered botton is click able
+[INFO ] 2025-02-26 06:00:07.292 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-26 06:00:14.425 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-02-26 06:00:14.800 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-26 06:00:15.044 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-02-26 06:10:31.022 [main] MyStoreV1 - url opened
+[INFO ] 2025-02-26 06:10:32.982 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-02-26 06:10:33.367 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-02-26 06:10:33.620 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 01:28:52.730 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 01:28:54.801 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 01:28:55.186 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 01:28:55.433 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 01:29:48.550 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 01:29:54.079 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 01:29:54.392 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 01:29:54.691 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 01:29:58.153 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 01:30:04.989 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 02:17:27.125 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 02:17:28.873 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 02:17:29.280 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 02:17:29.662 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 02:21:42.059 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 02:21:48.119 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 02:21:48.488 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 02:21:48.729 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 02:23:28.274 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 02:23:29.744 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 02:23:30.132 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 02:23:30.394 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 02:23:33.900 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 02:23:39.649 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 11:42:09.168 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 11:42:11.801 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 11:42:12.906 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 11:42:13.253 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 11:43:20.584 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 11:43:22.295 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 11:43:23.081 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 11:43:23.350 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 11:43:27.760 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 11:43:35.238 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:04:12.019 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:04:18.583 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:04:19.011 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:04:19.391 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:05:38.903 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:05:41.062 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:05:41.842 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:05:42.178 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:05:46.058 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 12:05:52.391 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:22:04.109 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:22:12.456 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:22:12.842 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:22:13.109 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:22:16.859 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 12:22:23.745 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:29:16.993 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:29:18.832 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:29:19.307 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:29:19.560 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:29:23.061 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 12:29:28.980 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:29:31.767 [main] MyStoreV1 - State is selected successfully
+[INFO ] 2025-07-06 12:29:33.850 [main] MyStoreV1 - Address save button is clickable 
+[INFO ] 2025-07-06 12:32:37.247 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:32:42.370 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:32:42.784 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:32:43.060 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:32:46.785 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 12:32:53.060 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:32:55.650 [main] MyStoreV1 - State is selected successfully
+[INFO ] 2025-07-06 12:32:58.061 [main] MyStoreV1 - Address save button is clickable 
+[INFO ] 2025-07-06 12:34:19.286 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-06 12:34:24.626 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-06 12:34:25.007 [main] MyStoreV1 - email address is entered in account creation page
+[INFO ] 2025-07-06 12:34:25.269 [main] MyStoreV1 - Submit button is clickable
+[INFO ] 2025-07-06 12:34:28.818 [main] MyStoreV1 - sign up check box is  selected
+[INFO ] 2025-07-06 12:34:35.754 [main] MyStoreV1 - registered botton is clickable
+[INFO ] 2025-07-06 12:34:38.174 [main] MyStoreV1 - State is selected successfully
+[INFO ] 2025-07-06 12:34:41.342 [main] MyStoreV1 - Address save button is clickable 
+[INFO ] 2025-07-09 10:04:02.879 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-09 10:04:05.889 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-09 10:04:06.626 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-09 10:04:06.932 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-09 10:04:08.183 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-09 10:08:46.359 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-09 10:08:51.784 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-09 10:08:52.479 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-09 10:08:52.943 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-09 10:08:54.343 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-09 10:14:05.295 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-09 10:14:06.946 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-09 10:14:07.229 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-09 10:14:07.444 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-09 10:14:08.184 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-09 10:14:56.458 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-09 10:15:00.420 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-09 10:15:00.751 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-09 10:15:01.014 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-09 10:15:02.212 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-12 23:15:40.926 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-12 23:15:42.965 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-12 23:15:43.393 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-12 23:15:43.607 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-12 23:15:44.694 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-12 23:30:14.606 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-12 23:30:16.359 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-12 23:30:16.622 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-12 23:30:16.850 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-12 23:30:17.459 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-12 23:35:23.661 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-12 23:35:25.081 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-12 23:35:25.347 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-12 23:35:25.557 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-12 23:35:26.119 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-12 23:42:14.460 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-12 23:42:16.341 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-12 23:42:16.605 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-12 23:42:19.797 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-12 23:42:23.839 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-12 23:54:12.277 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-12 23:54:13.754 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-12 23:54:16.192 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-12 23:54:21.422 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-12 23:54:25.116 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-13 00:15:30.822 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-13 00:15:32.563 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-13 00:15:34.878 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-13 00:15:40.152 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-13 00:20:14.112 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-13 00:20:16.003 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-13 00:20:18.367 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-13 00:20:23.616 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-13 00:20:28.155 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-13 00:20:28.312 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-14 07:23:03.234 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 07:23:05.273 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 07:23:07.538 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 07:23:12.766 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 07:23:17.366 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 07:23:17.467 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 07:37:15.372 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 07:37:17.540 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 07:37:19.870 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 07:37:25.103 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 07:37:29.745 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 07:37:29.854 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 07:44:26.653 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 07:44:30.171 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 07:44:32.524 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 07:44:37.727 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 07:44:42.685 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 07:44:42.817 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 07:55:18.552 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 07:55:20.479 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 07:55:22.768 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 07:55:27.964 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 07:55:32.542 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 07:55:32.688 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 07:59:12.209 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 07:59:14.196 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 07:59:16.512 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 07:59:21.725 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 07:59:26.196 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 07:59:26.314 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 08:06:15.528 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 08:06:17.212 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 08:06:19.579 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 08:06:24.795 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 08:06:29.184 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 08:06:29.322 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 08:46:40.027 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 08:46:42.216 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 08:46:44.480 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 08:46:49.739 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 08:46:54.166 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 08:46:54.293 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 09:19:14.390 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 09:19:16.232 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 09:19:18.581 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 09:19:23.829 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 09:19:27.997 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 09:19:28.122 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 09:50:54.217 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 09:50:55.893 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 09:50:58.313 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 09:51:03.532 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 09:51:07.923 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 09:51:08.054 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-14 10:03:50.299 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-14 10:03:52.011 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-14 10:03:54.332 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-14 10:03:59.885 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-14 10:04:04.786 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-14 10:04:05.015 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-15 09:24:08.951 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-15 09:24:11.113 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-15 09:24:13.509 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-15 09:24:18.710 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-15 09:24:23.669 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-15 09:24:23.852 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-15 10:07:35.220 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-15 10:07:37.074 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-15 10:07:39.426 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-15 10:07:44.617 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-15 10:07:50.133 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-15 10:07:50.256 [main] MyStoreV1 - verify login - failed
+[INFO ] 2025-07-19 06:51:07.946 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 06:51:10.140 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-19 06:51:12.484 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-19 06:51:17.790 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-19 06:51:22.752 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-19 06:51:22.984 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-19 06:53:23.941 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 06:53:30.019 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-19 06:53:32.420 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-19 06:53:37.745 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-19 06:53:42.922 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-19 06:53:43.182 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-19 06:55:11.634 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 06:55:13.384 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-19 06:55:15.667 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-19 06:55:20.893 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-19 06:55:26.166 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-19 06:55:26.292 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-19 07:00:12.137 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 12:02:54.567 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 12:22:33.378 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 12:22:38.480 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-19 12:22:40.817 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-19 12:22:46.035 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-19 12:22:50.832 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-19 12:22:51.023 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-19 12:25:18.800 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 12:36:02.064 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 13:09:08.075 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 13:11:32.460 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:03:33.289 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:06:28.003 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:09:40.334 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:13:36.792 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:14:37.539 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:15:48.115 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-19 23:18:15.383 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-20 05:56:19.144 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-21 09:13:29.619 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-21 09:13:32.817 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-21 09:13:35.247 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-21 09:13:40.449 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-21 09:13:45.317 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-21 09:13:45.415 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-21 09:16:23.440 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-21 09:16:45.022 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-21 09:16:45.653 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-21 09:16:48.187 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-21 09:16:50.900 [main] MyStoreV1 - More page is displayed 
+[INFO ] 2025-07-21 09:16:51.250 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-21 09:16:52.065 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-21 09:16:52.739 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-21 09:17:10.691 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-21 09:17:13.022 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-21 09:17:18.425 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 10:39:50.667 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 10:39:51.105 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-22 10:39:51.268 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-22 10:39:53.693 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-22 10:39:57.427 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-22 10:39:59.668 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-22 10:40:00.021 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-22 10:40:00.613 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-22 10:40:04.926 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-22 10:40:15.693 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 10:40:17.953 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 10:40:23.143 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 10:40:27.525 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 10:40:27.642 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:10:06.335 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 11:10:07.039 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-22 11:10:07.243 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-22 11:10:08.646 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-22 11:10:11.308 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-22 11:10:13.606 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-22 11:10:14.078 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-22 11:10:14.678 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-22 11:10:19.967 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-22 11:10:21.929 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 11:10:24.240 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 11:10:29.402 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 11:10:33.650 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 11:10:33.782 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:17:33.473 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 11:17:34.019 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-22 11:17:34.180 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-22 11:17:35.618 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-22 11:17:37.362 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-22 11:17:39.584 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-22 11:17:40.000 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-22 11:17:40.615 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-22 11:17:46.118 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-22 11:17:50.222 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 11:17:52.455 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 11:17:57.635 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 11:18:02.623 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 11:18:02.767 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:18:52.208 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 11:18:52.796 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-22 11:18:52.988 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-22 11:18:54.100 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-22 11:18:55.552 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-22 11:18:57.752 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-22 11:18:58.128 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-22 11:18:58.781 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-22 11:19:03.019 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-22 11:19:05.937 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 11:19:08.143 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 11:19:13.399 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 11:19:17.932 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 11:19:18.047 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:23:07.849 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 11:23:12.276 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 11:23:14.658 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 11:23:19.953 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 11:23:24.803 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 11:23:24.931 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:36:03.776 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-22 11:36:07.657 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-22 11:36:10.012 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-22 11:36:15.168 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-22 11:36:20.535 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-22 11:36:20.645 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-22 11:36:22.864 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-22 11:36:22.996 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-22 11:36:36.758 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-22 11:36:41.881 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-22 11:36:44.099 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-22 11:36:44.457 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-22 11:36:45.044 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-22 11:36:52.974 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 10:05:49.702 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 10:05:52.165 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 10:05:54.555 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 10:05:59.806 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 10:06:04.518 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 10:06:04.722 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 10:06:06.973 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 10:06:07.087 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 10:06:08.374 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 10:06:11.311 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 10:06:13.526 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 10:06:13.868 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 10:06:14.490 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 10:06:18.290 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 10:19:21.235 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 10:19:33.441 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 10:19:35.775 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 10:19:41.037 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 10:19:45.695 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 10:19:45.918 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 10:19:48.170 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 10:19:48.293 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 10:19:49.827 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 10:19:51.711 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 10:19:53.951 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 10:19:54.325 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 10:19:54.935 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 10:20:04.478 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 10:20:04.479 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 10:28:21.505 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 10:28:23.393 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 10:28:25.740 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 10:28:30.958 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 10:28:50.921 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 10:46:28.600 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 10:46:31.386 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 10:46:33.758 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 10:46:38.995 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 10:46:43.214 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 10:46:43.335 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:03:43.563 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:03:45.932 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:03:48.332 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:03:53.604 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:03:58.187 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:03:58.309 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:13:20.227 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:13:22.471 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:13:24.850 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:13:30.060 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:13:34.754 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:13:34.902 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:13:37.145 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:13:37.252 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:13:39.774 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:13:42.292 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:13:44.525 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:13:44.901 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:13:45.495 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:13:48.818 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:13:48.820 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:13:52.089 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:13:52.290 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-07-30 11:13:53.392 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-07-30 11:13:54.399 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-07-30 11:26:15.200 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:26:18.004 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:26:20.583 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:26:25.784 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:26:30.715 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:26:31.012 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:26:33.234 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:26:33.338 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:26:39.900 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:26:42.777 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:26:44.999 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:26:45.368 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:26:46.040 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:26:50.712 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:26:50.713 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:26:54.029 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:26:54.724 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-07-30 11:26:55.360 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-07-30 11:26:56.530 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-07-30 11:26:57.343 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-07-30 11:26:57.344 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-07-30 11:35:40.164 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:35:42.360 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:35:44.743 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:35:50.039 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:35:54.521 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:35:54.740 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:36:06.023 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:36:07.759 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:36:10.091 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:36:15.254 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:36:19.879 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:36:19.980 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:36:22.253 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:36:22.359 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:36:23.926 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:36:25.618 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:36:27.815 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:36:28.158 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:36:28.760 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:36:32.364 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:36:32.365 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:36:43.317 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:36:45.661 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:36:47.972 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:36:53.151 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:36:58.283 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:36:58.379 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:37:00.632 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:37:00.764 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:37:00.981 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:37:04.417 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:37:06.601 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:37:06.957 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:37:07.555 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:37:10.849 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:37:10.850 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:37:14.224 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:37:14.920 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-07-30 11:37:15.443 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-07-30 11:37:16.101 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-07-30 11:37:17.094 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-07-30 11:37:17.095 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-07-30 11:48:18.779 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:48:20.800 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:48:23.118 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:48:28.324 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:48:32.957 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:48:33.121 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:48:43.639 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:48:45.069 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:48:47.308 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:48:52.564 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:48:56.997 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:48:57.141 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:48:59.342 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:48:59.444 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:49:00.721 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:49:02.279 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:49:04.480 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:49:04.846 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:49:05.411 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:49:08.796 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:49:08.796 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:49:12.935 [main] MyStoreV1 - url opened
+[INFO ] 2025-07-30 11:49:17.384 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-07-30 11:49:19.642 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-07-30 11:49:24.865 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-07-30 11:49:29.163 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-07-30 11:49:29.325 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-07-30 11:49:31.490 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-07-30 11:49:31.598 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-07-30 11:49:32.816 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-07-30 11:49:34.310 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-07-30 11:49:36.500 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-07-30 11:49:36.875 [main] MyStoreV1 - size is selected
+[INFO ] 2025-07-30 11:49:37.469 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-07-30 11:49:41.255 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-07-30 11:49:41.255 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:49:44.362 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-07-30 11:49:45.026 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-07-30 11:49:45.574 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-07-30 11:49:46.229 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-07-30 11:49:47.325 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-07-30 11:49:54.222 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-08-06 10:12:45.681 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-06 10:12:47.602 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-06 10:12:49.977 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-06 10:12:55.202 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-06 10:12:59.410 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-06 10:12:59.511 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-06 10:13:48.189 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-06 10:13:52.667 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-06 10:13:54.918 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-06 10:14:00.086 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-06 10:14:12.284 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-06 10:14:12.386 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-06 10:14:14.567 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-06 10:14:14.672 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-06 10:14:28.426 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-06 10:14:50.962 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-06 10:14:53.136 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-06 10:14:53.454 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-06 10:14:54.052 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-06 10:14:58.893 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-06 10:14:58.894 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-06 10:15:13.249 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-06 10:15:17.487 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-06 10:15:19.794 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-06 10:15:24.994 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-06 10:15:30.808 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-06 10:15:30.903 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-06 10:15:33.074 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-06 10:15:33.189 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-06 10:15:37.329 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-06 10:15:40.482 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-06 10:15:42.865 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-06 10:15:43.707 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-06 10:15:43.984 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-06 10:15:48.650 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-06 10:15:48.651 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-06 10:16:02.364 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-08-06 10:16:03.852 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-08-06 10:16:04.089 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-08-06 10:16:05.330 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-08-06 10:16:06.208 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-08-06 10:16:13.274 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-08-10 06:23:04.049 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 06:23:06.851 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 06:23:09.287 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 06:23:14.529 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 06:23:21.939 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 06:23:22.553 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 06:23:24.816 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 06:23:24.965 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 06:23:30.374 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 06:23:43.066 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 06:23:45.343 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 06:23:45.762 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 06:23:46.367 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 06:23:59.011 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 06:23:59.012 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 06:24:02.496 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-08-10 06:24:05.060 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-08-10 06:24:05.318 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-08-10 06:24:09.793 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-08-10 06:24:10.711 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-08-10 06:24:19.546 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-08-10 06:39:13.545 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 06:39:15.991 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 06:39:18.507 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 06:39:23.930 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 06:39:29.453 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 06:39:29.639 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 09:51:51.992 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 09:51:54.887 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 09:51:57.578 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 09:52:02.821 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 09:52:07.517 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 09:52:07.897 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 09:52:20.889 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 09:52:22.907 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 09:52:25.133 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 09:52:30.370 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 09:52:34.951 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 09:52:35.089 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 09:52:37.673 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 09:52:37.780 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 09:52:39.342 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 09:52:41.186 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 09:52:43.401 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 09:52:43.721 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 09:52:44.478 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 09:52:49.474 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 09:52:49.475 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 09:52:59.581 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 09:53:02.257 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 09:53:04.522 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 09:53:09.718 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 09:53:14.477 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 09:53:14.638 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 09:53:16.788 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 09:53:16.902 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 09:53:18.779 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 09:53:22.346 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 09:53:24.532 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 09:53:24.918 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 09:53:25.525 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 09:53:30.696 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 09:53:30.697 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 09:53:34.528 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-08-10 09:53:37.567 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-08-10 09:53:37.874 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-08-10 09:53:40.332 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-08-10 09:53:41.416 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-08-10 09:53:51.328 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-08-10 10:02:45.463 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 10:02:51.869 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 10:02:54.263 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 10:02:59.537 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 10:03:04.375 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 10:03:04.522 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 10:03:16.391 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 10:03:18.238 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 10:03:20.470 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 10:03:25.656 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 10:03:30.186 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 10:03:30.304 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 10:03:32.513 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 10:03:32.609 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 10:03:32.760 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 10:03:36.215 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 10:03:38.443 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 10:03:38.947 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 10:03:39.665 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 10:03:45.659 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 10:03:45.663 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 10:03:53.974 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 10:03:55.984 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 10:03:58.188 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 10:04:03.374 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 10:04:07.976 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 10:04:08.063 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 10:04:10.223 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 10:04:10.325 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 10:04:11.650 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 10:04:13.707 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 10:04:15.888 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 10:04:16.205 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 10:04:16.785 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 10:04:22.818 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 10:04:22.819 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 10:04:26.492 [main] MyStoreV1 - Proceed to checkout button is clicked
+[INFO ] 2025-08-10 10:04:26.686 [main] MyStoreV1 - Proceed to check button is clicked
+[INFO ] 2025-08-10 10:04:29.353 [main] MyStoreV1 - Checkbox is selected
+[INFO ] 2025-08-10 10:04:32.477 [main] MyStoreV1 - Button is clicked
+[INFO ] 2025-08-10 10:04:33.413 [main] MyStoreV1 - bank is selected
+[INFO ] 2025-08-10 10:04:41.408 [main] MyStoreV1 - order is confirmed
+[INFO ] 2025-08-10 12:37:15.857 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:37:16.694 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:37:22.010 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:37:22.450 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:37:22.629 [main] MyStoreV1 -  product is added for compare 
+[INFO ] 2025-08-10 12:37:22.972 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 12:37:23.821 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 12:37:25.187 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 12:37:28.558 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 12:37:30.748 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 12:37:31.113 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 12:37:31.680 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 12:37:35.634 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 12:37:35.635 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 12:37:37.557 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:37:40.351 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:37:45.527 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:37:51.399 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:37:51.652 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:37:53.828 [main] MyStoreV1 - search field is clickable
+[INFO ] 2025-08-10 12:37:53.947 [main] MyStoreV1 - T shirt is entere
+[INFO ] 2025-08-10 12:37:56.809 [main] MyStoreV1 - product is displyed
+[INFO ] 2025-08-10 12:37:59.259 [main] MyStoreV1 - product is clicked
+[INFO ] 2025-08-10 12:38:01.437 [main] MyStoreV1 - button is clickable
+[INFO ] 2025-08-10 12:38:01.704 [main] MyStoreV1 - size is selected
+[INFO ] 2025-08-10 12:38:02.306 [main] MyStoreV1 - Quantity is increased
+[INFO ] 2025-08-10 12:38:06.994 [main] MyStoreV1 - Add to cart button is clickable
+[INFO ] 2025-08-10 12:38:06.995 [main] MyStoreV1 - proceed to checkout button is clicked
+[INFO ] 2025-08-10 12:41:45.079 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:41:45.138 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:41:47.375 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:41:47.411 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:41:47.613 [main] MyStoreV1 -  product is added for compare 
+[INFO ] 2025-08-10 12:41:49.340 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:41:51.651 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:41:56.889 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:42:01.564 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:42:01.713 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:48:41.994 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:48:42.098 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:48:47.300 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:48:47.438 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:48:47.644 [main] MyStoreV1 -  product is added for compare 
+[INFO ] 2025-08-10 12:48:50.471 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:48:53.275 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:48:58.462 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:49:03.128 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:49:03.329 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:50:55.568 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:50:55.605 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:50:58.556 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:50:58.584 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:50:58.788 [main] MyStoreV1 -  product is added for compare 
+[INFO ] 2025-08-10 12:51:01.328 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:51:03.730 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:51:08.915 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:51:13.611 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:51:13.701 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:53:58.755 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:54:09.582 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:54:12.003 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:54:17.226 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:54:22.662 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:54:22.809 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:54:24.873 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:54:27.203 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:54:27.279 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:55:59.673 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 12:56:06.807 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 12:56:09.344 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 12:56:14.517 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 12:56:19.148 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 12:56:20.221 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 12:56:22.285 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 12:56:35.637 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 12:56:37.887 [main] MyStoreV1 -  mouse is overed on T shirt 
+[INFO ] 2025-08-10 12:56:45.079 [main] MyStoreV1 -  product is added for compare 
+[INFO ] 2025-08-10 13:00:43.947 [main] MyStoreV1 - url opened
+[INFO ] 2025-08-10 13:00:57.722 [main] MyStoreV1 - Sign in button is clickable
+[INFO ] 2025-08-10 13:01:00.653 [main] MyStoreV1 - email address is entered in email text field..
+[INFO ] 2025-08-10 13:01:05.800 [main] MyStoreV1 - passwd entered in pwd text field ..
+[INFO ] 2025-08-10 13:01:10.787 [main] MyStoreV1 - sign in button clickable
+[INFO ] 2025-08-10 13:01:10.986 [main] MyStoreV1 - verify login - passed
+[INFO ] 2025-08-10 13:01:13.043 [main] MyStoreV1 - ========Start add to comapare product ======
+[INFO ] 2025-08-10 13:01:15.456 [main] MyStoreV1 - mouse over ============
+[INFO ] 2025-08-10 13:01:15.594 [main] MyStoreV1 -  mouse is overed on T shirt 
